@@ -8,4 +8,4 @@ The puropose of this app was to use different React hooks and get hands on with 
 
 ![Alt text](src/assets/Food%20Order%20App.JPG?raw=true "Main")
 
-![Alt text](src/assets/Food%20Order%20App%202.JPG?raw=true "Main")
+![Alt text](src/assets/Food%20Order%20App2.JPG?raw=true "Cart")
